@@ -7,7 +7,7 @@ package Frames;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 
 import dataobject.EnemyInfo;

@@ -23,7 +23,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 public class EnterName extends javax.swing.JFrame {
     

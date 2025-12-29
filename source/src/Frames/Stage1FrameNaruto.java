@@ -22,7 +22,7 @@ import logic.CharacterFactory;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 public class Stage1FrameNaruto extends javax.swing.JFrame implements PerformAnimation, Perform{
 

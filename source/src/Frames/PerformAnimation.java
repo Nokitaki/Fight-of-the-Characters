@@ -7,7 +7,7 @@ package Frames;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 interface PerformAnimation {
     public void HeroBasicAttackAnimation();

@@ -6,7 +6,7 @@ package dataobject;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 import javax.swing.ImageIcon;
 import logic.CharacterBackground;

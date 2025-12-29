@@ -6,7 +6,7 @@ package logic;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 public class Character {
         private String name;

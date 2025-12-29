@@ -6,7 +6,7 @@ package logic;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 import dataobject.EnemyInfo;
 import dataobject.HeroInfo;

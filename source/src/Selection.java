@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 import java.util.Random;
 

@@ -23,7 +23,7 @@ import logic.CharacterFactory;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 public class Stage2FrameSasuke extends javax.swing.JFrame implements PerformAnimation, Perform {
 

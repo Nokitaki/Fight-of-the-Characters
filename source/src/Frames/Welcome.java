@@ -17,7 +17,7 @@ import java.awt.event.KeyEvent;
 
 /**
  *
- * @author Philip
+ * @author Joel
  */
 public class Welcome extends javax.swing.JFrame {
     //private JLabel blinkLabel;
